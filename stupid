@@ -1,0 +1,4 @@
+#define CD LCTL(KC_DOWN)
+#define EXPOSE LCTL(KC_UP)
+#define CHROMETABSEARCH LSG(KC_A)
+#define KC_CAPP LGUI(LSFT(KC_4))        // Capture portion of screen
